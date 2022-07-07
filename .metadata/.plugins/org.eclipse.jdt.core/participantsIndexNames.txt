@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\WTT\Desktop\FoodOrderingSystemwithREStAPi\FoodOrderingSystemwithREStAPi\FoodorderingSystem\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2450723878.index
+\WTT1Prg\src\main\java
+C:\Users\WTT\Desktop\FoodOrderingSystemwithREStAPi\FoodOrderingSystemwithREStAPi\FoodorderingSystem\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3246890632.index
+\TeamAgra\src\main\java
+C:\Users\WTT\Desktop\FoodOrderingSystemwithREStAPi\FoodOrderingSystemwithREStAPi\FoodorderingSystem\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2609005343.index
+\WTT1Prg\src\main\java
+C:\Users\WTT\Desktop\FoodOrderingSystemwithREStAPi\FoodOrderingSystemwithREStAPi\FoodorderingSystem\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3932433010.index
+\WTTPrg\src\main\resources
